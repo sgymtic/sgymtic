@@ -1,3 +1,2 @@
 # sgymtic
-===
 メモとかTODOとか
